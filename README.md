@@ -13,6 +13,9 @@
 
 [<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="300" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
 
+<br/>
+<br/>
+
 ###
 
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p>

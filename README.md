@@ -77,6 +77,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+</div>
+
+###
+
 <br/>
 <h2 align="left">Social media</h2>
 
@@ -98,13 +104,6 @@
   <a href="https://www.instagram.com/ali_arjmandi.pv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
 
 ###

@@ -7,11 +7,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="300" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
 
 ###
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="300" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
+<h2 align="left">About me</h2>
 
 ###
 
@@ -80,11 +80,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
-
-###
-
-<br/>
-<h2 align="left">Social media</h2>
 
 ###
 

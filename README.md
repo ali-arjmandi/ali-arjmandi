@@ -10,6 +10,14 @@
 
 ###
 
+<div align="right" height="300">
+  <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" style="max-width: 100%;" />
+  </a>
+</div>
+
+###
+
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p>
 
 ###
@@ -97,16 +105,8 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <div style="flex: 70%; padding-right: 10px;">
-    <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
-  </div>
-  
-  <div style="flex: 30%; padding-left: 10px;">
-    <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" style="max-width: 100%;" />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
 </div>
 
 ###

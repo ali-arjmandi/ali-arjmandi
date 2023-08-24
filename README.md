@@ -97,14 +97,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" align="left" />
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played"  />
-  </a>
+<div style="display: flex;">
+  <div style="flex: 70%;">
+    <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
+  </div>
+  
+  <div style="flex: 30%;">
+    <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" />
+    </a>
+  </div>
 </div>
 
 ###

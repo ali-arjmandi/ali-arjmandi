@@ -72,14 +72,14 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
 
 ###

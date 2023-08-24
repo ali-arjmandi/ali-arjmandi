@@ -7,7 +7,7 @@
 
 ###
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="330" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="300" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
 
 ###
 

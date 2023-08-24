@@ -1,3 +1,4 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -10,15 +11,9 @@
 
 ###
 
-<div align="right" height="200">
-  <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" style="max-width: 100%;" />
-  </a>
-</div>
-
-###
-
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p>
+|||
+|--|--|
+| <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p> | [<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=6" alt="Spotify recently played" height="400"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh) |
 
 ###
 

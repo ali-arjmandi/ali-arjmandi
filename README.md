@@ -72,15 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<h2 align="left">Find me around the web</h2>
 
 ###
 
@@ -99,6 +91,19 @@
   </a>
   <a href="https://www.instagram.com/ali_arjmandi.pv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 

@@ -77,7 +77,7 @@
 
 ###
 
-<h2 align="left">Find me around the web</h2>
+<h2 align="left">Social media</h2>
 
 ###
 

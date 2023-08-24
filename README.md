@@ -74,9 +74,7 @@
 
 ###
 
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5)
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5)
 
 ###
 

@@ -97,14 +97,14 @@
 
 ###
 
-<div style="display: flex;">
-  <div style="flex: 70%;">
-    <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" />
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <div style="flex: 70%; padding-right: 10px;">
+    <img src="https://raw.githubusercontent.com/ali-arjmandi/ali-arjmandi/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
   </div>
   
-  <div style="flex: 30%;">
+  <div style="flex: 30%; padding-left: 10px;">
     <a href="https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=5" alt="Spotify recently played" style="max-width: 100%;" />
     </a>
   </div>
 </div>

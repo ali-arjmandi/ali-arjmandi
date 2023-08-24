@@ -1,4 +1,5 @@
 
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,11 +12,11 @@
 
 ###
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width="300" align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=0ibdae3zm48vjpeji66vplswh&count=8" alt="Spotify recently played" width= 35% align="right"/>](https://open.spotify.com/user/0ibdae3zm48vjpeji66vplswh)
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p>
+<p align="left" min-width="50">✨ Creating bugs since 2017<br>📚 I'm currently learning: Advanced data structures and algorithms<br>🎯 Goals: Contributing to open-source projects, mastering web application security<br>🎲 Fun fact: I can solve a Rubik's Cube in under two minutes!</p>
 
 ###
 

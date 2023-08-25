@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Ali Arjmandi, and I'm a passionate Back End developer who loves crafting efficient and innovative solutions. With a strong foundation in coding and problem-solving, I thrive on turning ideas into functional, user-friendly applications.</p>
+<p align="left">I'm an experienced Back End developer who loves crafting efficient and innovative solutions. With a strong foundation in coding and problem-solving, I thrive on turning ideas into functional, user-friendly applications.</p>
 
 ###
 
